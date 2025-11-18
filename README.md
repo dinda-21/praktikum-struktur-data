@@ -1,4 +1,4 @@
-### **Implementasi Queue di Python Queue**
+### **Implementasi Queue di Python**
 ---
 
 **Apa itu Queue?**
